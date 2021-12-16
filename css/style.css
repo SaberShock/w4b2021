@@ -117,3 +117,12 @@ footer {
 .form{
     padding-right: 200px;
 }
+.twitter{
+    float: right;
+    clear:both;
+}
+.googlemap{
+    width:600px;
+    float: left;
+    margin-right: 800px;
+}
